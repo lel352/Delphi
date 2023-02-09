@@ -1,0 +1,34 @@
+object Form9: TForm9
+  Left = 0
+  Top = 0
+  Caption = 'Form9'
+  ClientHeight = 364
+  ClientWidth = 687
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object btnJson: TButton
+    Left = 32
+    Top = 16
+    Width = 75
+    Height = 25
+    Caption = 'JSON'
+    TabOrder = 0
+    OnClick = btnJsonClick
+  end
+  object memJson: TMemo
+    Left = 32
+    Top = 72
+    Width = 633
+    Height = 257
+    Lines.Strings = (
+      'memJson')
+    TabOrder = 1
+  end
+end

@@ -1,0 +1,59 @@
+unit frmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, untPessoa;
+
+type
+  TForm9 = class(TForm)
+    btnJson: TButton;
+    memJson: TMemo;
+    btnJson2: TButton;
+    procedure btnJsonClick(Sender: TObject);
+    procedure btnJson2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form9: TForm9;
+
+implementation
+
+{$R *.dfm}
+
+uses REST.Json, System.JSON;
+
+procedure TForm9.btnJson2Click(Sender: TObject);
+var
+  Pessoa: TPessoa;
+  JSONPessoa: TJSONObject;
+begin
+  Pessoa := TPessoa.Create;
+  Pessoa.ID := 1;
+  Pessoa.Nome := 'Leandro';
+  Pessoa.Ativa := True;
+
+  JSONPessoa :=  TJson.ObjectToJsonObject(Pessoa);
+  JSONPessoa.removePair('ativa').free;
+
+  memJson.lines.Text := JSONPessoa.ToString;
+end;
+
+procedure TForm9.btnJsonClick(Sender: TObject);
+var
+  Pessoa: TPessoa;
+begin
+  Pessoa := TPessoa.Create;
+  Pessoa.ID := 1;
+  Pessoa.Nome := 'Leandro';
+  Pessoa.Ativa := True;
+
+  memJson.lines.Text := TJson.ObjectToJsonString(Pessoa);
+end;
+
+end.

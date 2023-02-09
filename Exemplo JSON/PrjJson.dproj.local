@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/02/09 16:17:49.600,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/02/09 16:19:20.189,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2023/02/09 16:20:56.136,C:\Leandro\MundoProjeto\Delphi\Exemplo JSON\frmPrincipal.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2023/02/09 16:20:56.136,C:\Leandro\MundoProjeto\Delphi\Exemplo JSON\frmPrincipal.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/02/09 16:21:09.872,C:\Leandro\MundoProjeto\Delphi\Exemplo JSON\untPessoa.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2023/02/09 16:21:21.552,C:\Leandro\MundoProjeto\Delphi\Exemplo JSON\PrjJson.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
