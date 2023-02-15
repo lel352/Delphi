@@ -1,0 +1,69 @@
+object Form9: TForm9
+  Left = 0
+  Top = 0
+  Caption = 'Form9'
+  ClientHeight = 259
+  ClientWidth = 533
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblConteudo: TLabel
+    Left = 16
+    Top = 13
+    Width = 47
+    Height = 13
+    Caption = 'Conte'#250'do'
+  end
+  object lblReverse: TLabel
+    Left = 16
+    Top = 64
+    Width = 40
+    Height = 13
+    Caption = 'Reverse'
+  end
+  object btnReverse: TButton
+    Left = 16
+    Top = 120
+    Width = 75
+    Height = 25
+    Caption = 'Reverse'
+    TabOrder = 0
+    OnClick = btnReverseClick
+  end
+  object edtConteudo: TEdit
+    Left = 16
+    Top = 32
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object edtReverse: TEdit
+    Left = 16
+    Top = 80
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object btnCarregar: TButton
+    Left = 16
+    Top = 214
+    Width = 75
+    Height = 25
+    Caption = 'Carregar'
+    TabOrder = 3
+    OnClick = btnCarregarClick
+  end
+  object cbxTipoPessoa: TComboBox
+    Left = 16
+    Top = 187
+    Width = 145
+    Height = 21
+    TabOrder = 4
+  end
+end
