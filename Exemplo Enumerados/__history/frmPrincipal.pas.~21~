@@ -1,0 +1,58 @@
+unit frmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls, uEnum;
+
+type
+  TForm9 = class(TForm)
+    Button1: TButton;
+    Button2: TButton;
+    cbxDias: TComboBox;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+    function VerificaDiaSemana(const ADia: TDias): Boolean;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form9: TForm9;
+
+implementation
+
+{$R *.dfm}
+{ TForm9 }
+
+procedure TForm9.Button1Click(Sender: TObject);
+begin
+// ord() retorna o indice do Enum
+  if VerificaDiaSemana(TDias.terca) then ShowMessage('Sim, é um dia da semana')
+  else ShowMessage('Não, é um dia da semana');
+end;
+
+procedure TForm9.Button2Click(Sender: TObject);
+var
+  diaString: String;
+  diaInteger: Integer;
+begin
+  diaString := TDias.Domingo.GetValue;
+  diaInteger := TDias.Domingo.GetValue;
+
+  CarregarComboBox(cbxDias);
+end;
+
+function TForm9.VerificaDiaSemana(const ADia: TDias): Boolean;
+begin
+  case ADia of
+    TDias.Domingo, TDias.Sabado: result := False;
+  else result := True;
+  end;
+end;
+
+end.

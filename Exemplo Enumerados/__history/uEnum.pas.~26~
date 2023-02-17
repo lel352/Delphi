@@ -1,0 +1,48 @@
+unit uEnum;
+
+interface
+
+uses vcl.stdCtrls, tyinfo;
+
+type
+  TExemplo = (Algumacoisa, Algumacoisa2);
+{$SCOPEDENUMS ON}
+  TDias = (Domingo, Segunda, Terca, Quarta, Quinta, Sexta, Sabado);
+{$SCOPEDENUMS OFF}
+
+  TDIasHelper = record helper for TDias
+    function GetValue: String; overload;
+    function GetValue: Integer; overload;
+  end;
+
+procedure CarregarComboBox(const aComboBox: TComboBox);
+
+implementation
+
+uses System.SysUtils;
+
+{ TDIasHelper }
+
+function TDIasHelper.GetValue: String;
+begin
+ result := IntToStr(ord(Self));
+end;
+
+function TDIasHelper.GetValue: Integer;
+begin
+  result := ord(Self);
+end;
+
+procedure CarregarComboBox(const aComboBox: TComboBox);
+var
+  dia: TDias;
+  dias: Integer;
+begin
+  aComboBox.clear;
+  for dias := TDias.Domingo to TDias.Sabado do
+    aComboBox.Items.add(GetEnumName(TypeInfo(TDias),Integer(dias))
+
+
+end;
+
+end.
