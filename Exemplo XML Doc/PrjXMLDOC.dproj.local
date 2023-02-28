@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/02/24 10:04:17.478,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/02/24 10:05:30.502,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\frmPrincipal.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2023/02/24 10:05:30.502,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\frmPrincipal.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/02/24 10:05:38.373,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\PrjXMLDOC.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/02/24 10:08:48.758,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 10:08:58.302,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\uFunctions.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo XML Doc\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

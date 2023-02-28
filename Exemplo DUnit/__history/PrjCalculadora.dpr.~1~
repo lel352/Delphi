@@ -1,0 +1,14 @@
+program PrjCalculadora;
+
+uses
+  Vcl.Forms,
+  frmPrincipal in 'frmPrincipal.pas' {lblNumero2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TlblNumero2, lblNumero2);
+  Application.Run;
+end.

@@ -1,0 +1,44 @@
+unit uFunctions;
+
+interface
+
+type
+  Tfuncoes = class
+  public
+    /// <summary>
+    ///   A Função <c>IsEmpty</c> serve para verificar se um valor passado como parâmetro está vazio.
+    ///  Está sendo utilizada em: <see cref='frmPrincipal.TFPrincipal'/>
+    ///  <para>
+    ///   Veja o Exemplo abaixo de como utilizar a função:
+    ///  <code>
+    ///     <para>if Tfuncoes.IsEmpty(edtValor) then</para>
+    ///     <para>   ShowMessage('O edit está vazio')</para>
+    ///     <para>else</para>
+    ///     <para>   ShowMessage('O edit possuir algum valor')</para>
+    ///  </code>
+    ///  </para>
+    /// </summary>
+    /// <param name="AValue">
+    ///   Refere-se a string a qual deseja-se  verificar se possui alguma informação.
+    /// </param>
+    /// <returns>
+    ///   Retorna <c>True</c> se a string passada como parâmetro estiver vazia.
+    ///   <para> Retorna <c>False</c> se a string passada como parâmetro não se estiver vazia </para>
+    /// </returns>
+    /// <remarks>
+    ///  Já existe uma função nativa no delphi que faz esse mesmo recurso.
+    /// </remarks>
+
+    class function IsEmpty(const AValue: String):Boolean;
+  end;
+
+implementation
+
+{ Tfuncoes }
+
+function Tfuncoes.IsEmpty(const AValue: String): Boolean;
+begin
+
+end;
+
+end.
