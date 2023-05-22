@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/05/22 16:54:51.855,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/05/22 17:13:00.498,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MatchStr\UPrincipal.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2023/05/22 17:13:00.498,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MatchStr\UPrincipal.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/05/22 17:13:15.278,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MatchStr\PrjPrincipal.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
