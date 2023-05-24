@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
-    <Transaction>2023/04/11 16:51:31.412,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
-    <Transaction>2023/04/11 17:47:02.345,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\uGenerics.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
-    <Transaction>2023/04/11 17:47:02.345,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\uGenerics.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
-    <Transaction>2023/04/11 17:47:14.879,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\PrjGenerics.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/04/11 16:51:31.000.412,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/04/11 17:47:02.000.345,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\uGenerics.dfm</Transaction>
+    <Transaction>2023/04/11 17:47:02.000.345,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\uGenerics.pas</Transaction>
+    <Transaction>2023/04/11 17:47:14.000.879,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Generics\PrjGenerics.dproj</Transaction>
   </Transactions>
 </BorlandProject>
