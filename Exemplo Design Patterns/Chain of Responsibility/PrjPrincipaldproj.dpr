@@ -1,0 +1,18 @@
+program PrjPrincipaldproj;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'uPrincipal.pas' {Principal},
+  UPartternInterface in 'UPartternInterface.pas',
+  uPatternDiretor in 'uPatternDiretor.pas',
+  UPatternVicePresidente in 'UPatternVicePresidente.pas',
+  UPatternPresidente in 'UPatternPresidente.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPrincipal, Principal);
+  Application.Run;
+end.

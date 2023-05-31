@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/05/25 14:38:21.000.890,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/05/25 14:41:00.000.773,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2023/05/25 14:43:44.000.798,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\uPrincipal.dfm</Transaction>
+    <Transaction>2023/05/25 14:43:44.000.798,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\uPrincipal.pas</Transaction>
+    <Transaction>2023/05/25 14:44:49.000.794,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit10.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\UPartternInterface.pas</Transaction>
+    <Transaction>2023/05/25 14:44:57.000.832,C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\PrjPrincipaldproj.dproj</Transaction>
+    <Transaction>2023/05/25 15:24:57.061,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit1.pas</Transaction>
+    <Transaction>2023/05/25 15:33:32.383,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\uPatternDiretor.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit1.pas</Transaction>
+    <Transaction>2023/05/25 15:33:43.409,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit2.pas</Transaction>
+    <Transaction>2023/05/25 15:34:11.987,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\UPatternVicePresidente.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit2.pas</Transaction>
+    <Transaction>2023/05/25 16:01:53.990,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit2.pas</Transaction>
+    <Transaction>2023/05/25 16:02:20.387,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\UPatternPresidente.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo Design Patterns\Chain of Responsibility\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
