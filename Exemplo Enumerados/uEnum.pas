@@ -38,3 +38,11 @@ begin
 end;
 
 end.
+
+
+Memo1
+OI--- /-/ OI---
+---OI /-/ ---OI
+ OI   /-/ -OI--
+
+
