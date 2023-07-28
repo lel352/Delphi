@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 10:12:33.000.548,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/06/27 16:32:01.000.451,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/06/27 16:38:57.000.407,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmPrincipal.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2023/06/27 16:38:57.000.407,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmPrincipal.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2023/06/27 16:39:03.000.711,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\PrjMVC.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/06/27 16:39:11.000.103,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 16:39:21.000.080,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Controller.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 16:39:46.000.432,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 16:40:09.000.317,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Controller.Vendas.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 16:58:47.000.286,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 17:07:13.000.473,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 17:07:18.000.320,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Controller.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:27:24.000.309,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:27:33.000.004,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Model.Venda.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:27:43.000.535,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:28:04.000.607,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Model.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:28:10.000.262,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:28:17.000.077,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Model.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:43:27.000.656,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 18:43:41.000.129,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit2.pas</Transaction>
+    <Transaction>2023/06/27 18:44:02.000.181,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Controller.Observer.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit2.pas</Transaction>
+    <Transaction>2023/06/27 18:44:49.000.967,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Controller.Observer.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 11:48:15.000.805,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 11:48:38.000.041,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmOutro.dfm</Transaction>
+    <Transaction>2023/06/28 11:48:38.000.041,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\Unit1.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmOutro.pas</Transaction>
+    <Transaction>2023/07/25 11:17:39.000.292,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\PrjMVCORMBR.dproj=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\PrjMVC.dproj</Transaction>
+    <Transaction>2023/07/25 11:18:46.000.831,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmPrincipal.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmPrincipal.pas</Transaction>
+    <Transaction>2023/07/25 11:18:46.000.831,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmPrincipal.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC\frmPrincipal.dfm</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.856,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmOutro.pas</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.762,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Vendas.pas</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.650,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.680,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Observer.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.616,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:20:24.000.722,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Observer.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:20:27.000.865,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Venda.pas</Transaction>
+    <Transaction>2023/07/25 11:20:27.000.844,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:20:27.000.817,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:21:34.000.912,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller\Controller.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:21:45.000.571,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller\Controller.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:21:55.000.123,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller\Controller.Observer.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Observer.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:22:02.000.030,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller\Controller.Observer.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Observer.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:22:09.000.824,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller\Controller.Vendas.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Controller.Vendas.pas</Transaction>
+    <Transaction>2023/07/25 11:22:21.000.266,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Model.Interfaces.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Interfaces.pas</Transaction>
+    <Transaction>2023/07/25 11:22:32.000.374,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Model.Venda.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Venda.pas</Transaction>
+    <Transaction>2023/07/25 11:22:42.000.578,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Model.Item.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model.Item.pas</Transaction>
+    <Transaction>2023/07/25 11:23:20.000.834,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmViewSecundario.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmOutro.dfm</Transaction>
+    <Transaction>2023/07/25 11:23:20.000.834,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmViewSecundario.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmOutro.pas</Transaction>
+    <Transaction>2023/07/25 11:23:56.000.496,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmView.Principal.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmPrincipal.dfm</Transaction>
+    <Transaction>2023/07/25 11:23:56.000.496,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmView.Principal.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\frmPrincipal.pas</Transaction>
+    <Transaction>2023/07/25 11:24:08.000.918,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmView.Secundario.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmViewSecundario.pas</Transaction>
+    <Transaction>2023/07/25 11:24:08.000.918,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmView.Secundario.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\View\frmViewSecundario.dfm</Transaction>
+    <Transaction>2023/07/25 16:49:13.000.926,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 16:51:11.000.727,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Unit1.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Conexao\Model.Conexao.pas</Transaction>
+    <Transaction>2023/07/25 16:51:11.000.727,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Unit1.dfm=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Conexao\Model.Conexao.dfm</Transaction>
+    <Transaction>2023/07/25 17:02:52.000.349,=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Unit1.pas</Transaction>
+    <Transaction>2023/07/25 17:03:40.000.597,C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Unit1.pas=C:\Leandro\MundoProjeto\Delphi\Delphi\Exemplo MVC com ORMBr\Model\Conexao\Model.Conexao.Interfaces.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Controller"/>
+    <File Path="Controller\Controller.Interfaces.pas"/>
+    <File Path="Controller\Controller.Item.pas"/>
+    <File Path="Controller\Controller.Observer.Interfaces.pas"/>
+    <File Path="Controller\Controller.Observer.Item.pas"/>
+    <File Path="Controller\Controller.Vendas.pas"/>
+    <File Path="Model"/>
+    <File Path="Model\Conexao"/>
+    <File Path="Model\Conexao\Model.Conexao.pas"/>
+    <File Path="Model\Conexao\Model.Conexao.dfm"/>
+    <File Path="Model\Conexao\Model.Conexao.Interfaces.pas"/>
+    <File Path="Model\Model.Interfaces.pas"/>
+    <File Path="Model\Model.Item.pas"/>
+    <File Path="Model\Model.Venda.pas"/>
+    <File Path="View"/>
+    <File Path="View\frmView.Principal.pas"/>
+    <File Path="View\frmView.Principal.dfm"/>
+    <File Path="View\frmView.Secundario.pas"/>
+    <File Path="View\frmView.Secundario.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
