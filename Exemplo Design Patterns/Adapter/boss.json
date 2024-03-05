@@ -1,0 +1,11 @@
+{
+	"name": "pkgExemploDesignPatternsAdpter",
+	"description": "Exemplo de Adapter",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/sacfiscal/delphiscal": "^1.0.2"
+	}
+}

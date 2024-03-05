@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2023-08-23T20:56:13.948987-03:00",
+	"installedModules": {
+		"https://github.com/sacfiscal/delphiscal": {
+			"name": "delphiscal",
+			"version": "1.0.2",
+			"hash": "038139509440ba494561bd33f08439fb",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
