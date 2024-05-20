@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/30 18:41:24.000.857,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 16:14:20.000.275,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 16:23:28.000.933,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\frmPrincipal.pas</Transaction>
+    <Transaction>2024/05/18 16:23:28.000.933,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\frmPrincipal.dfm</Transaction>
+    <Transaction>2024/05/18 16:23:41.000.647,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\leand\Documents\Embarcadero\Studio\Projects\PrjPooLiveBindings.dproj</Transaction>
+    <Transaction>2024/05/20 19:56:32.669,D:\Documentos\Programação\Delphi\Delphi\Exemplo  POO + LiveBindings\PrjPooLiveBindings.dproj=C:\Users\leand\Documents\Embarcadero\Studio\Projects\PrjPooLiveBindings.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
