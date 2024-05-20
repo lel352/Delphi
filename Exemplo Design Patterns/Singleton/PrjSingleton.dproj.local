@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/30 18:41:24.000.857,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 14:25:58.487,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 14:35:17.562,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmPrincipal.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/15 14:35:17.562,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmPrincipal.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 14:35:24.756,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\PrjSingleton.dproj=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/15 14:35:38.365,=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 14:35:50.337,=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit2.pas</Transaction>
+    <Transaction>2024/05/15 14:44:20.789,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmUnit2.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit2.pas</Transaction>
+    <Transaction>2024/05/15 14:44:20.789,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmUnit2.dfm=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit2.dfm</Transaction>
+    <Transaction>2024/05/15 14:44:38.892,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmTela2.dfm=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmUnit2.dfm</Transaction>
+    <Transaction>2024/05/15 14:44:38.892,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmTela2.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\frmUnit2.pas</Transaction>
+    <Transaction>2024/05/15 14:51:50.233,=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 15:02:08.485,D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\singleton.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo Design Patterns\Singleton\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
