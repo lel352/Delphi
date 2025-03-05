@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/30 18:41:24.000.857,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 16:13:32.000.098,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 16:27:11.000.036,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\frmPrincipal.dfm</Transaction>
+    <Transaction>2024/05/31 16:27:11.000.036,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\frmPrincipal.pas</Transaction>
+    <Transaction>2024/05/31 16:28:19.000.137,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\PrjCleanCode.dproj</Transaction>
+    <Transaction>2024/05/31 16:29:14.000.915,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 16:29:45.000.946,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.pas</Transaction>
+    <Transaction>2024/05/31 16:30:13.000.862,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.pas</Transaction>
+    <Transaction>2024/05/31 16:30:36.000.973,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\frmPrincipal.dfm=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Views.Principal.dfm</Transaction>
+    <Transaction>2024/05/31 16:30:36.000.973,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\frmPrincipal.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Views.Principal.pas</Transaction>
+    <Transaction>2024/05/31 16:31:57.000.813,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 16:32:22.000.535,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Interfaces.pas</Transaction>
+    <Transaction>2024/05/31 16:56:43.000.872,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 16:56:58.000.015,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Criar.pas</Transaction>
+    <Transaction>2024/05/31 17:06:29.000.886,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 17:06:49.000.004,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Validar.pas</Transaction>
+    <Transaction>2024/05/31 17:09:11.000.454,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 17:09:31.000.436,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Enviar.pas</Transaction>
+    <Transaction>2024/05/31 17:10:59.000.009,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 17:11:08.000.372,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Gravar.pas</Transaction>
+    <Transaction>2024/05/31 17:12:22.000.216,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 17:12:34.000.984,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.Email.pas</Transaction>
+    <Transaction>2024/05/31 17:14:04.000.150,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 17:14:16.000.526,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.EnviarNotaSefaz.pas</Transaction>
+    <Transaction>2024/05/31 19:55:10.000.150,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 19:55:32.000.194,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.Invoker.pas</Transaction>
+    <Transaction>2024/05/31 20:25:02.000.316,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.EnviarNotaSefaz.pas=</Transaction>
+    <Transaction>2024/05/31 20:29:03.000.856,=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 20:29:19.000.210,D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo CleanCode\eNota.Controller.NotaFiscal.ImportarPedido.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="eNota.Controller.Invoker.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Criar.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Email.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Enviar.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Gravar.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.ImportarPedido.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Interfaces.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.pas"/>
+    <File Path="eNota.Controller.NotaFiscal.Validar.pas"/>
+    <File Path="eNota.Views.Principal.pas"/>
+    <File Path="eNota.Views.Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
