@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/30 18:41:24.000.857,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/29 18:22:04.000.861,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/29 18:27:21.000.593,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Documentos\Programação\Delphi\Delphi\Exemplo FDBatchMove\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/10/29 18:27:21.000.593,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Documentos\Programação\Delphi\Delphi\Exemplo FDBatchMove\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/10/29 18:27:33.000.764,C:\Users\leand\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Documentos\Programação\Delphi\Delphi\Exemplo FDBatchMove\PrjMigracao.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
